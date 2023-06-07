@@ -5,6 +5,7 @@
 *open your terminal and run "git clone <URL>"
 *run "npm install"
 \*run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
+link to live site:https://kenpachi2.github.io/lesson1-2_task5_Umeadi-Ifeanyi/
 ##Acknowledgement
 Mr Tony Dilibe
 Mrs Ngozi
